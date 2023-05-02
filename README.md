@@ -12,7 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="50" height="50" fill="white"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/thumbnail-matplotlib-773540575.jpg" width="90" height="60"/>&nbsp;
+  <img src="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/thumbnail-matplotlib-773540575.jpg" title="Matplotlib"  alt="Matplotlib" width="90" height="50"/>
             
 </div>
 
@@ -21,11 +21,8 @@ L'analyse est établie sur des données brutes récupérées sur le site de la F
 <br>
 
 ## Notebook Jupyter:
-![alt text](https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/P4_BERTRAND_Jupyter.html)
+<img src="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/P4_BERTRAND_Jupyter.html"/>
 <br>
 
 ## Support de présentation du projet:
-![alt text](https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/P4_BERTRAND_Pr%C3%A9sentation.pdf)
-
-
-
+<embed src="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/P4_BERTRAND_Pr%C3%A9sentation.pdf" width="800" height="500" type="application/pdf"/>
