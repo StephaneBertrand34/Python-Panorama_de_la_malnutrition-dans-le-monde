@@ -25,4 +25,4 @@ L'analyse est établie sur des données brutes récupérées sur le site de la F
 <br>
 
 ## Support de présentation du projet:
-<embed src="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/P4_BERTRAND_Pr%C3%A9sentation.pdf" width="800" height="500" type="application/pdf"/>
+<embed src="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/P4_BERTRAND_Pr%C3%A9sentation.pdf" type="application/pdf"/>
