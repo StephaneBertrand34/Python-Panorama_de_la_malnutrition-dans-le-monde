@@ -21,9 +21,7 @@ L'analyse est établie sur des données brutes récupérées sur le site de la F
 <br>
 
 ## Notebook Jupyter:
-<a href="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/P4_BERTRAND_Jupyter.html" target="_blank" title="Notebook.html">Notebook.html</a>   
-ou   
-<a href="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/P4_BERTRAND_Jupyter.html" target="_blank" title="Notebook.ipynb">Notebook.ipynb</a>
+<a href="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/P4_BERTRAND_Jupyter.ipynb" target="_blank" title="Notebook.ipynb">Notebook.ipynb</a>
 <br>
 
 ## Support de présentation du projet:
