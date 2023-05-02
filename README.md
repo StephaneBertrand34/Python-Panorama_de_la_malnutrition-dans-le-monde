@@ -8,20 +8,22 @@
 <br>
 
 ## Outils utilisés:
-<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="50" height="50" fill="white"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/thumbnail-matplotlib-773540575.jpg" title="Matplotlib"  alt="Matplotlib" width="90" height="50"/>
-            
-</div>
+  <img src="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/thumbnail-matplotlib-773540575.jpg" title="Matplotlib"  alt="Matplotlib" width="90" height="50"/>  
+<br>
+<br>
 
-## Cadre de la mission:
-L'analyse est établie sur des données brutes récupérées sur le site de la FAO.
+## Mise en situation
+Vous venez d'intégrer une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que data analyst. Votre équipe s'est vue confier la mission de réaliser une étude sur le thème de la sous-nutrition dans le monde et elle compte sur vous pour lui donner un panorama de la situation.   
+Vous travaillerez à partir de données brutes fournies par le site de la FAO.
+<br>
 <br>
 
 ## Notebook Jupyter:
 <a href="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/P4_BERTRAND_Jupyter.ipynb" target="_blank" title="Notebook.ipynb">Notebook.ipynb</a>
+<br>
 <br>
 
 ## Support de présentation du projet:
