@@ -1,4 +1,4 @@
-# Panorama de l’état de la malnutrition dans le monde en 2017
+# Panorama de l’état de la malnutrition dans le monde
 <br>
 
 ## Compétences acquises à l'issue du projet:
