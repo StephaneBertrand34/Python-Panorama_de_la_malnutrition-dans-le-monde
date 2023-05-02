@@ -12,6 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="50" height="50" fill="white"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/thumbnail-matplotlib-773540575.jpg" width="90" height="60"/>&nbsp;
             
 </div>
 
