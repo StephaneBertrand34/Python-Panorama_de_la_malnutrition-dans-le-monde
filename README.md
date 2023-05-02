@@ -23,7 +23,7 @@ Vous travaillerez à partir de données brutes fournies par le site de la FAO.
 <br>
 
 ## Notebook Jupyter
-<a href="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/P4_BERTRAND_Jupyter.ipynb" target="_blank" title="Notebook.ipynb">Notebook.ipynb</a>
+<a href="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/P4_BERTRAND_Jupyter.ipynb" target="_blank" title="Notebook.ipynb">Cliquer ici</a>
 
 ## Support de présentation du projet
-<a href="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/P4_BERTRAND_Pr%C3%A9sentation.pdf" title="Présentation.pdf">Présentation.pdf</a>
+<a href="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/P4_BERTRAND_Pr%C3%A9sentation.pdf" title="Présentation.pdf">Cliquer ici</a>
