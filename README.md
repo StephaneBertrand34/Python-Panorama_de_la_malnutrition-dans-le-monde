@@ -1,5 +1,4 @@
 # Panorama de la malnutrition dans le monde
----
 
 ## Compétences acquises à l'issue du projet
 * Créer un environnement de développement
