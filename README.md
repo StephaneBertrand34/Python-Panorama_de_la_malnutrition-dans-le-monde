@@ -1,5 +1,7 @@
 # Panorama de la malnutrition dans le monde
 
+<br>
+
 ## Compétences acquises à l'issue du projet
 * Créer un environnement de développement
 * Manipuler des DataFrames
